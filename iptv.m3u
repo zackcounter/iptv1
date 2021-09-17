@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0, TV9
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVCPTZAQmM2fcpzjF135SjQ)/dm/3/x6qqja6/s/live-4.m3u8
+#EXTINF:-1, tvg-id="TV3" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png" group-title="TV", TV3
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWcL4pBFN2swetEUGwguSEQ)/dm/3/x6qp375/d/live-2.m3u8
+#EXTINF:0, NTV7
+https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08l-pcVc-H1C5wuMw1Il90xc)/dm/3/x7a7rxp/s/live-3.m3u8
+#EXTINF:30, 8TV
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08iyeEKVuJOQfAYu0ibJrgz4)/dm/3/x7a7ru1/s/live-2.m3u8
+#EXTINF:0, Drama Sangat
+https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0iIIG-EnKt8CLd__Da64emg)/dm/3/x6zvnex/s/live-2.m3u8
+#EXTINF:0, Al-Hijrah
+https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_aSLPB1OGZf6TwSxRZGOCwA)/dm/3/x6rsa3u/s/live-2.m3u8
+#EXTINF:30, CNA
+https://stream-04.sg1.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIalkW7I01sILLqrWIDUIxRBCg)/dm/3/x7ptegr/s/live-2.m3u8
